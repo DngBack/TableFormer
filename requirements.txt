@@ -1,0 +1,12 @@
+# Python 3.11
+pre-commit==3.7.1
+torch==2.5.1
+torchvision==0.20.1
+transformers==4.47.1
+numpy==2.2.1
+jsonlines==4.0.0
+Pillow==11.1.0
+tqdm==4.67.1
+opencv-python-headless==4.10.0.84
+huggingface_hub==0.27.1
+safetensors==0.5.2
